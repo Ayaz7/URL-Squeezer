@@ -11,7 +11,7 @@ This is an example of how to make a application which shortens the url entered b
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/Ayaz7/shorturl.git
+https://github.com/Ayaz7/URL-Squeezer.git
 ```
 
 Step 2: cd into the cloned repo and run:
