@@ -46,4 +46,4 @@ You can fork this repo and send me a PR.
 
 ## License
 
-This project is licensed under the Educational Community License v2.0 License.
+This project is licensed under the MIT License.
