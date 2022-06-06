@@ -50,7 +50,7 @@ npm start
 
 ## Author
 
-  Ayaz Ali
+  Ayaz Ali, Ayush Yadav, Viraj, Hariram.
 
 ## Contribute
 
