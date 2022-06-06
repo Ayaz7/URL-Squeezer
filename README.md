@@ -30,13 +30,18 @@ Step 4: Install Following dependencies by running the command:
 npm i body-parser ejs express http-errors mongodb mongoose shortid
 ```
 
-Step 5: Initialize
+Step 5 (Optional): If Nodemon not installed
+
+```bash
+npm install -g nodemon
+```
+Step 6: Initialize
 
 ```bash
 npm init -y
 ```
 
-Step 6: Start the application by
+Step 7: Start the application by
 
 ```bash
 npm start
