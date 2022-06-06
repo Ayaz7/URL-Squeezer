@@ -24,13 +24,19 @@ Step 3: Install & Run MongoDB (Linux Ubuntu)
 
 See <https://docs.mongodb.com/manual/installation/> for more infos
 
-Step 4 (optional): If Nodemon not installed
+Step 4: Install Following dependencies by running the command:
 
 ```bash
-npm install -g nodemon
+npm i body-parser ejs express http-errors mongodb mongoose shortid
 ```
 
-Step 5: Start the application by
+Step 5: Initialize
+
+```bash
+npm init -y
+```
+
+Step 6: Start the application by
 
 ```bash
 npm start
